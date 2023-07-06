@@ -1,0 +1,12 @@
+C:\Users\melin\OneDrive\Escritorio\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\bin\Debug\ModeloDeDominio.dll
+C:\Users\melin\OneDrive\Escritorio\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\bin\Debug\ModeloDeDominio.pdb
+C:\Users\melin\OneDrive\Escritorio\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.csproj.AssemblyReference.cache
+C:\Users\melin\OneDrive\Escritorio\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\melin\OneDrive\Escritorio\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.dll
+C:\Users\melin\OneDrive\Escritorio\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.pdb
+C:\Users\Melina\Desktop\INTECHNOLOGY\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\bin\Debug\ModeloDeDominio.dll
+C:\Users\Melina\Desktop\INTECHNOLOGY\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\bin\Debug\ModeloDeDominio.pdb
+C:\Users\Melina\Desktop\INTECHNOLOGY\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.csproj.AssemblyReference.cache
+C:\Users\Melina\Desktop\INTECHNOLOGY\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\Melina\Desktop\INTECHNOLOGY\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.dll
+C:\Users\Melina\Desktop\INTECHNOLOGY\TPFinalNivel2_CarpignanoMelina\ModeloDeDominio\obj\Debug\ModeloDeDominio.pdb
